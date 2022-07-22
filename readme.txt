@@ -1,23 +1,4 @@
-
-==================================================================================================
-
-ADVENT is a clean, modern and well-crafted coming soon HTML5 template. It’s the perfect template 
-to keep your visitors informed about the official website launch. The template features a 
-countdown timer, a google map section, an about section where you can add information about 
-your website and a mailchimp ready ajax subscription form. The template is very customizable 
-and pretty easy to use.
-
-==================================================================================================
-
-
 LICENSE:
-
-ADVENT is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
-
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
 
 Under the following conditions:
 
